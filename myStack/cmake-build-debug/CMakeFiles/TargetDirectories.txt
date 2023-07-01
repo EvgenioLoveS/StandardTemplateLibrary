@@ -1,0 +1,3 @@
+D:/253505/OAiP/2sem/C++/STL/myStack/cmake-build-debug/CMakeFiles/myStack.dir
+D:/253505/OAiP/2sem/C++/STL/myStack/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/253505/OAiP/2sem/C++/STL/myStack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
